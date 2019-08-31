@@ -56,7 +56,8 @@ uses
   URelMov_MensalEvento2 in 'URelMov_MensalEvento2.pas' {fRelMov_MensalEvento2},
   UConsMov_MensalEvento_Aluno in 'UConsMov_MensalEvento_Aluno.pas' {fConsMov_MensalEvento_Aluno},
   URelMov_MensalEvento_Aluno in 'URelMov_MensalEvento_Aluno.pas' {fRelMov_MensalEvento_Aluno},
-  URelMov_MensalEvento_Aluno2 in 'URelMov_MensalEvento_Aluno2.pas' {fRelMov_MensalEvento_Aluno2};
+  URelMov_MensalEvento_Aluno2 in 'URelMov_MensalEvento_Aluno2.pas' {fRelMov_MensalEvento_Aluno2},
+  uUtilPadrao in 'uUtilPadrao.pas';
 
 {$R *.RES}
 var
